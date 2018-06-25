@@ -26,7 +26,7 @@ Screenshots
 
 Layout of the site when viewed in a computer resolution:
 
-.. image:: https://github.com/tkimnguyen/plonetheme.chalkboard/raw/master/screenshot.png
+.. image:: https://github.com/tkimnguyen/chalkboardtheme_plone/blob/master/screenshot.png
 
 
 Features
@@ -118,7 +118,8 @@ The project is licensed under the GPLv2.
 Credits
 -------
 
-- T\. Kim Nguyen (nguyen at gmail dot com).
+- T\. Kim Nguyen (tkimnguyen)
+- Leonardo J. Caballero G. (macagua)
 
 .. _`Chalkboard Theme`: https://wordpress.org/themes/classic-chalkboard/
 .. _`chalkboardtheme_plone`: https://github.com/tkimnguyen/chalkboardtheme_plone
