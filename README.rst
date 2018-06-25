@@ -26,7 +26,7 @@ Screenshots
 
 Layout of the site when viewed in a computer resolution:
 
-.. image:: https://github.com/tkimnguyen/chalkboardtheme_plone/blob/master/screenshot.png
+.. image:: https://github.com/collective/plonetheme.chalkboard/blob/master/screenshot.png
 
 
 Features
@@ -47,7 +47,7 @@ Zip file
 
 If you are an end user, you might enjoy installation via zip file import.
 
-1. Download a `zip file <https://github.com/tkimnguyen/plonetheme.chalkboard/raw/master/plonetheme.chalkboard.zip>`_.
+1. Download a `zip file <https://github.com/collective/plonetheme.chalkboard/raw/master/plonetheme.chalkboard.zip>`_.
 2. Import the theme from the Diazo theme control panel.
 
 
@@ -106,8 +106,8 @@ Everything else is hardcoded – sorry :) – please contribute your improvement
 Contribute
 ==========
 
-- Issue Tracker: https://github.com/plone-ve/plonetheme.chalkboard/issues
-- Source Code: https://github.com/plone-ve/plonetheme.chalkboard
+- Issue Tracker: https://github.com/collective/plonetheme.chalkboard/issues
+- Source Code: https://github.com/collective/plonetheme.chalkboard
 
 
 License
